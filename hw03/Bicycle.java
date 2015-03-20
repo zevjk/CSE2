@@ -5,7 +5,7 @@
 //load scanner
 import java.util.Scanner;
 // define a class
-public class Bycicle {
+public class Bicycle {
     			  // main method required for every Java program
    			  public static void main(String[] args) {
 //Declare Scanner
